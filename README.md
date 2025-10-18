@@ -21,15 +21,15 @@ Understand the foundation — how data and operations are measured.
 
 Topics:
 
-Time & Space Complexity (Big O, Big Θ, Big Ω)
+!Time & Space Complexity (Big O, Big Θ, Big Ω)
 
-Asymptotic Analysis
+!Asymptotic Analysis
 
-How to analyze loops & recursion
+!How to analyze loops & recursion
 
-Recurrence relations (T(n) = T(n/2) + n)
+!Recurrence relations (T(n) = T(n/2) + n)
 
-Basic Mathematics for DSA (logarithms, power, mod)
+!Basic Mathematics for DSA (logarithms, power, mod)
 
 Practice:
 
@@ -133,7 +133,7 @@ Rat in a Maze, N-Queens, Sudoku Solver
 Practice:
 👉 LeetCode: 46, 78, 39, 40, 90, 51
 
-🔗 3. Dynamic Programming
+!🔗 3. Dynamic Programming
 
 Basics: Memoization & Tabulation
 
